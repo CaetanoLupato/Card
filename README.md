@@ -1,2 +1,2 @@
 # Card
-Um card simples para estudo.
+um card simples para estudo.
